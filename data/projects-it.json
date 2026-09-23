@@ -1,0 +1,418 @@
+{
+  "projects": [
+    {
+      "slug": "villa-sul-lago",
+      "title": "Villa sul Lago",
+      "location": "Como",
+      "year": "2026",
+      "type": "Residenziale",
+      "image": "assets/images/projects/project-1.jpg",
+      "alt": "Villa sul Lago",
+      "surface": "280 m²",
+      "status": "Realizzato",
+      "intro": "Una residenza progettata per instaurare un dialogo diretto con il paesaggio.",
+      "description": "La villa si sviluppa in continuità con il territorio, valorizzando la luce naturale, le viste sul lago e la materia locale. Volumi essenziali e spazi aperti definiscono un'abitazione contemporanea in equilibrio tra natura, comfort e sobrietà.",
+      "hero": "assets/images/projects/villa-sul-lago/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/villa-sul-lago/01.jpg",
+          "layout": "full",
+          "alt": "Villa sul Lago — 01"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/02.jpg",
+          "layout": "half",
+          "alt": "Villa sul Lago — 02"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/03.jpg",
+          "layout": "half",
+          "alt": "Villa sul Lago — 03"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/04.jpg",
+          "layout": "portrait",
+          "alt": "Villa sul Lago — 04"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/05.jpg",
+          "layout": "stack",
+          "alt": "Villa sul Lago — 05"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/06.jpg",
+          "layout": "stack",
+          "alt": "Villa sul Lago — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-tra-gli-ulivi",
+      "title": "Casa tra gli Ulivi",
+      "location": "Puglia",
+      "year": "2025",
+      "type": "Residenziale",
+      "image": "assets/images/projects/project-2.jpg",
+      "alt": "Casa tra gli Ulivi",
+      "surface": "300 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/casa-tra-gli-ulivi/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/01.jpg",
+          "layout": "full",
+          "alt": "Casa tra gli Ulivi — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/02.jpg",
+          "layout": "half",
+          "alt": "Casa tra gli Ulivi — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/03.jpg",
+          "layout": "half",
+          "alt": "Casa tra gli Ulivi — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/04.jpg",
+          "layout": "portrait",
+          "alt": "Casa tra gli Ulivi — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/05.jpg",
+          "layout": "stack",
+          "alt": "Casa tra gli Ulivi — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/06.jpg",
+          "layout": "stack",
+          "alt": "Casa tra gli Ulivi — 06"
+        }
+      ]
+    },
+    {
+      "slug": "attico-milano",
+      "title": "Attico Milano",
+      "location": "Milano",
+      "year": "2026",
+      "type": "Interior",
+      "image": "assets/images/projects/project-3.jpg",
+      "alt": "Attico Milano",
+      "surface": "320 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/attico-milano/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/attico-milano/01.jpg",
+          "layout": "full",
+          "alt": "Attico Milano — 01"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/02.jpg",
+          "layout": "half",
+          "alt": "Attico Milano — 02"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/03.jpg",
+          "layout": "half",
+          "alt": "Attico Milano — 03"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/04.jpg",
+          "layout": "portrait",
+          "alt": "Attico Milano — 04"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/05.jpg",
+          "layout": "stack",
+          "alt": "Attico Milano — 05"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/06.jpg",
+          "layout": "stack",
+          "alt": "Attico Milano — 06"
+        }
+      ]
+    },
+    {
+      "slug": "resort-toscana",
+      "title": "Resort in Toscana",
+      "location": "Toscana",
+      "year": "2025",
+      "type": "Hospitality",
+      "image": "assets/images/projects/project-4.jpg",
+      "alt": "Resort in Toscana",
+      "surface": "340 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/resort-toscana/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/resort-toscana/01.jpg",
+          "layout": "full",
+          "alt": "Resort in Toscana — 01"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/02.jpg",
+          "layout": "half",
+          "alt": "Resort in Toscana — 02"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/03.jpg",
+          "layout": "half",
+          "alt": "Resort in Toscana — 03"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/04.jpg",
+          "layout": "portrait",
+          "alt": "Resort in Toscana — 04"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/05.jpg",
+          "layout": "stack",
+          "alt": "Resort in Toscana — 05"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/06.jpg",
+          "layout": "stack",
+          "alt": "Resort in Toscana — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-patio",
+      "title": "Casa Patio",
+      "location": "Barcelona",
+      "year": "2025",
+      "type": "Residenziale",
+      "image": "assets/images/projects/project-2.jpg",
+      "alt": "Casa Patio",
+      "surface": "360 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/casa-patio/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-patio/01.jpg",
+          "layout": "full",
+          "alt": "Casa Patio — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/02.jpg",
+          "layout": "half",
+          "alt": "Casa Patio — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/03.jpg",
+          "layout": "half",
+          "alt": "Casa Patio — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/04.jpg",
+          "layout": "portrait",
+          "alt": "Casa Patio — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/05.jpg",
+          "layout": "stack",
+          "alt": "Casa Patio — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/06.jpg",
+          "layout": "stack",
+          "alt": "Casa Patio — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-della-luce",
+      "title": "Casa della Luce",
+      "location": "Mallorca",
+      "year": "2024",
+      "type": "Residenziale",
+      "image": "assets/images/projects/project-3.jpg",
+      "alt": "Casa della Luce",
+      "surface": "380 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/casa-della-luce/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-della-luce/01.jpg",
+          "layout": "full",
+          "alt": "Casa della Luce — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/02.jpg",
+          "layout": "half",
+          "alt": "Casa della Luce — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/03.jpg",
+          "layout": "half",
+          "alt": "Casa della Luce — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/04.jpg",
+          "layout": "portrait",
+          "alt": "Casa della Luce — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/05.jpg",
+          "layout": "stack",
+          "alt": "Casa della Luce — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/06.jpg",
+          "layout": "stack",
+          "alt": "Casa della Luce — 06"
+        }
+      ]
+    },
+    {
+      "slug": "residenza-tra-gli-ulivi",
+      "title": "Residenza tra gli Ulivi",
+      "location": "Val d'Orcia",
+      "year": "2023",
+      "type": "Residenziale",
+      "image": "assets/images/projects/project-2.jpg",
+      "alt": "Residenza tra gli Ulivi",
+      "surface": "400 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/residenza-tra-gli-ulivi/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/01.jpg",
+          "layout": "full",
+          "alt": "Residenza tra gli Ulivi — 01"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/02.jpg",
+          "layout": "half",
+          "alt": "Residenza tra gli Ulivi — 02"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/03.jpg",
+          "layout": "half",
+          "alt": "Residenza tra gli Ulivi — 03"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/04.jpg",
+          "layout": "portrait",
+          "alt": "Residenza tra gli Ulivi — 04"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/05.jpg",
+          "layout": "stack",
+          "alt": "Residenza tra gli Ulivi — 05"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/06.jpg",
+          "layout": "stack",
+          "alt": "Residenza tra gli Ulivi — 06"
+        }
+      ]
+    },
+    {
+      "slug": "studio-architettura",
+      "title": "Studio di Architettura",
+      "location": "Milano",
+      "year": "2023",
+      "type": "Uffici",
+      "image": "assets/images/projects/project-4.jpg",
+      "alt": "Studio di Architettura",
+      "surface": "420 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/studio-architettura/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/studio-architettura/01.jpg",
+          "layout": "full",
+          "alt": "Studio di Architettura — 01"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/02.jpg",
+          "layout": "half",
+          "alt": "Studio di Architettura — 02"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/03.jpg",
+          "layout": "half",
+          "alt": "Studio di Architettura — 03"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/04.jpg",
+          "layout": "portrait",
+          "alt": "Studio di Architettura — 04"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/05.jpg",
+          "layout": "stack",
+          "alt": "Studio di Architettura — 05"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/06.jpg",
+          "layout": "stack",
+          "alt": "Studio di Architettura — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-nelle-alpi",
+      "title": "Casa nelle Alpi",
+      "location": "Cortina",
+      "year": "2022",
+      "type": "Residenziale",
+      "image": "assets/images/projects/project-1.jpg",
+      "alt": "Casa nelle Alpi",
+      "surface": "440 m²",
+      "status": "Realizzato",
+      "intro": "Un progetto costruito intorno alla luce, alle proporzioni e al rapporto con il contesto.",
+      "description": "Spazi essenziali, materiali naturali e una composizione misurata definiscono un'architettura pensata per essere vissuta nel tempo.",
+      "hero": "assets/images/projects/casa-nelle-alpi/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/01.jpg",
+          "layout": "full",
+          "alt": "Casa nelle Alpi — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/02.jpg",
+          "layout": "half",
+          "alt": "Casa nelle Alpi — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/03.jpg",
+          "layout": "half",
+          "alt": "Casa nelle Alpi — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/04.jpg",
+          "layout": "portrait",
+          "alt": "Casa nelle Alpi — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/05.jpg",
+          "layout": "stack",
+          "alt": "Casa nelle Alpi — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/06.jpg",
+          "layout": "stack",
+          "alt": "Casa nelle Alpi — 06"
+        }
+      ]
+    }
+  ]
+}

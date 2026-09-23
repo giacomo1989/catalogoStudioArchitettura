@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "title": "FEDETEBA STUDIO — Architecture & Design",
+    "description": "Architecture studio — residential, interior and hospitality projects."
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "studio": "Studio",
+    "approach": "Approach",
+    "contacts": "Contact",
+    "menu": "Menu"
+  },
+  "hero": {
+    "eyebrow": "ARCHITECTURE FOR<br>A MORE HUMAN FUTURE",
+    "title": "Spaces that<br>inspire life",
+    "description": "We design authentic, essential and sustainable spaces,<br>in balance with people and their context.",
+    "cta": "DISCOVER OUR PROJECTS"
+  },
+  "projects": {
+    "eyebrow": "RECENT PROJECTS",
+    "all": "All projects →",
+    "items": [
+      {
+        "title": "Villa by the Lake",
+        "meta": "RESIDENTIAL / 2026",
+        "alt": "Villa by the Lake"
+      },
+      {
+        "title": "House among the Olive Trees",
+        "meta": "RESIDENTIAL / 2025",
+        "alt": "House among the Olive Trees"
+      },
+      {
+        "title": "Milan Penthouse",
+        "meta": "INTERIOR / 2026",
+        "alt": "Milan Penthouse"
+      },
+      {
+        "title": "Tuscan Resort",
+        "meta": "HOSPITALITY / 2025",
+        "alt": "Tuscan Resort"
+      }
+    ]
+  },
+  "studio": {
+    "eyebrow": "THE STUDIO",
+    "title": "Architecture<br>as dialogue",
+    "text": "We believe in architecture born from listening, one that enhances its context and puts people at the centre. Every project is an opportunity to create lasting aesthetic, social and environmental value.",
+    "cta": "DISCOVER THE STUDIO",
+    "image_alt": "Studio architecture"
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "Let's talk about<br>your project",
+    "intro": "We are always open to new collaborations.<br>If you have an idea, a project, or simply want to get to know our studio, write to us.",
+    "name": "Full name*",
+    "email": "Email*",
+    "subject": "Subject",
+    "message": "Message*",
+    "consent": "I consent to the processing of my personal data*",
+    "submit": "SEND MESSAGE",
+    "note": "The data submitted will be used exclusively to respond to your request. Connect the final privacy policy before publishing.",
+    "quote": "“Every place<br>has a story.<br>We help<br>tell it.”",
+    "image_alt": "Contemporary interior",
+    "sending": "SENDING...",
+    "success": "Message sent successfully. We will get back to you as soon as possible.",
+    "error": "The message could not be sent. Please try again shortly."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "pages": {
+    "placeholder": "Page ready. Final content will be added in the next phase.",
+    "back": "← Home",
+    "projects_title": "Projects",
+    "project_title": "Villa by the Lake",
+    "studio_title": "The Studio"
+  },
+  "approach": {
+    "eyebrow": "APPROACH",
+    "title": "Architecture as a balance<br>between place, material and people.",
+    "items": [
+      {
+        "title": "Place",
+        "text": "Every project begins by listening to its context, its history and its distinctive qualities."
+      },
+      {
+        "title": "Material",
+        "text": "Materials, light and proportions define the identity and atmosphere of a space."
+      },
+      {
+        "title": "People",
+        "text": "Spaces are designed around the people who inhabit them, their needs and their way of living."
+      }
+    ]
+  },
+  "portfolio": {
+    "meta_title": "Projects — FEDETEBA STUDIO",
+    "eyebrow": "PROJECTS",
+    "title": "A selection of spaces,<br>places and architecture.",
+    "cta_eyebrow": "CONTACT",
+    "cta_title": "Have a project<br>to tell us about?",
+    "cta_link": "LET'S TALK"
+  },
+  "project_detail": {
+    "back": "BACK TO PROJECTS",
+    "project": "THE PROJECT",
+    "location": "LOCATION",
+    "year": "YEAR",
+    "type": "TYPE",
+    "surface": "AREA",
+    "status": "STATUS",
+    "previous": "PREVIOUS PROJECT",
+    "next": "NEXT PROJECT",
+    "cta_eyebrow": "CONTACT",
+    "cta_title": "Have a project<br>to tell us about?",
+    "cta_link": "LET'S TALK",
+    "close": "Close gallery",
+    "prev_image": "Previous image",
+    "next_image": "Next image"
+  },
+  "studio_page": {
+    "hero": {
+      "eyebrow": "ABOUT US",
+      "title": "Architecture<br>for authentic living",
+      "text": "We design spaces that unite aesthetics, function and respect for context. We believe in essential, contemporary architecture deeply connected to places and people.",
+      "image_alt": "Contemporary architecture in the landscape"
+    },
+    "founder": {
+      "eyebrow": "THE FOUNDER",
+      "name": "Federica Tebaldi",
+      "lead": "Architect and designer with an international background and a deep passion for the Mediterranean landscape.",
+      "text": "The studio was founded to develop projects that unite beauty, functionality and environmental responsibility. Every project results from an ongoing dialogue between context, material and people.",
+      "image_alt": "Portrait of the studio founder"
+    },
+    "stats": {
+      "experience": "YEARS OF EXPERIENCE",
+      "projects": "COMPLETED PROJECTS",
+      "countries": "COUNTRIES",
+      "vision": "VISION"
+    },
+    "method": {
+      "eyebrow": "OUR APPROACH",
+      "title": "Listen,<br>interpret, build.",
+      "text": "Every project begins with an open dialogue with the client, respect for place and a constant search for balance between nature, technology and beauty.",
+      "items": [
+        {
+          "title": "CONTEXT",
+          "text": "Every place has a story. We listen to it."
+        },
+        {
+          "title": "PEOPLE",
+          "text": "Spaces designed for those who live in them, every day."
+        },
+        {
+          "title": "ESSENCE",
+          "text": "Architecture as a balance between nature, function and beauty."
+        }
+      ]
+    },
+    "manifesto": "“Architecture does not change the world,<br>but it can improve the way we live in it.”",
+    "values": {
+      "eyebrow": "OUR VALUES",
+      "items": [
+        {
+          "title": "Authenticity",
+          "text": "Honest projects rooted in places and people."
+        },
+        {
+          "title": "Sustainability",
+          "text": "Conscious solutions for a balanced future."
+        },
+        {
+          "title": "Quality",
+          "text": "Attention to detail, at every scale."
+        },
+        {
+          "title": "Dialogue",
+          "text": "Listening and collaboration as the basis of every project."
+        }
+      ]
+    },
+    "publications": {
+      "eyebrow": "PUBLICATIONS & RECOGNITION",
+      "placeholder": "Space prepared for the studio’s publications, awards and recognition."
+    },
+    "contact": {
+      "eyebrow": "CONTACT",
+      "title": "Let's talk about your project.",
+      "cta": "CONTACT US"
+    }
+  }
+}

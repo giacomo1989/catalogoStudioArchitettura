@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "title": "FEDETEBA STUDIO — Architecture & Design",
+    "description": "Studio di architettura — progetti residenziali, interior e hospitality."
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Progetti",
+    "studio": "Studio",
+    "approach": "Approccio",
+    "contacts": "Contatti",
+    "menu": "Menu"
+  },
+  "hero": {
+    "eyebrow": "ARCHITETTURA PER<br>UN FUTURO PIÙ UMANO",
+    "title": "Spazi che<br>ispirano la vita",
+    "description": "Progettiamo ambienti autentici, essenziali e sostenibili,<br>in equilibrio con le persone e con il contesto.",
+    "cta": "SCOPRI I PROGETTI"
+  },
+  "projects": {
+    "eyebrow": "PROGETTI RECENTI",
+    "all": "Tutti i progetti →",
+    "items": [
+      {
+        "title": "Villa sul Lago",
+        "meta": "RESIDENZIALE / 2026",
+        "alt": "Villa sul Lago"
+      },
+      {
+        "title": "Casa tra gli Ulivi",
+        "meta": "RESIDENZIALE / 2025",
+        "alt": "Casa tra gli Ulivi"
+      },
+      {
+        "title": "Attico Milano",
+        "meta": "INTERIOR / 2026",
+        "alt": "Attico Milano"
+      },
+      {
+        "title": "Resort in Toscana",
+        "meta": "HOSPITALITY / 2025",
+        "alt": "Resort in Toscana"
+      }
+    ]
+  },
+  "studio": {
+    "eyebrow": "LO STUDIO",
+    "title": "Architettura<br>come dialogo",
+    "text": "Crediamo in un'architettura che nasce dall'ascolto, che valorizza il contesto e che mette al centro le persone. Ogni progetto è un'opportunità per creare valore duraturo, estetico, sociale e ambientale.",
+    "cta": "SCOPRI LO STUDIO",
+    "image_alt": "Architettura dello studio"
+  },
+  "contact": {
+    "eyebrow": "CONTATTI",
+    "title": "Parliamo<br>del tuo progetto",
+    "intro": "Siamo sempre aperti a nuove collaborazioni.<br>Se hai un'idea, un progetto o semplicemente vuoi conoscere il nostro studio, scrivici.",
+    "name": "Nome e cognome*",
+    "email": "Email*",
+    "subject": "Oggetto",
+    "message": "Messaggio*",
+    "consent": "Acconsento al trattamento dei dati personali*",
+    "submit": "INVIA MESSAGGIO",
+    "note": "I dati inviati saranno utilizzati esclusivamente per rispondere alla richiesta. Prima della pubblicazione collegare la privacy policy definitiva.",
+    "quote": "“Ogni luogo<br>ha una storia.<br>Noi aiutiamo<br>a raccontarla.”",
+    "image_alt": "Interno contemporaneo",
+    "sending": "INVIO...",
+    "success": "Messaggio inviato correttamente. Ti risponderemo al più presto.",
+    "error": "Non è stato possibile inviare il messaggio. Riprova tra poco."
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati."
+  },
+  "pages": {
+    "placeholder": "Pagina predisposta. I contenuti definitivi verranno inseriti nella fase successiva.",
+    "back": "← Home",
+    "projects_title": "Progetti",
+    "project_title": "Villa sul Lago",
+    "studio_title": "Lo Studio"
+  },
+  "approach": {
+    "eyebrow": "APPROCCIO",
+    "title": "Architettura come equilibrio<br>tra luogo, materia e persone.",
+    "items": [
+      {
+        "title": "Luogo",
+        "text": "Ogni progetto nasce dall'ascolto del contesto, della sua storia e delle sue caratteristiche."
+      },
+      {
+        "title": "Materia",
+        "text": "Materiali, luce e proporzioni definiscono l'identità e l'atmosfera dello spazio."
+      },
+      {
+        "title": "Persone",
+        "text": "Gli spazi sono progettati intorno a chi li vive, alle sue esigenze e al suo modo di abitare."
+      }
+    ]
+  },
+  "portfolio": {
+    "meta_title": "Progetti — FEDETEBA STUDIO",
+    "eyebrow": "PROGETTI",
+    "title": "Una selezione di spazi,<br>luoghi e architetture.",
+    "cta_eyebrow": "CONTATTO",
+    "cta_title": "Hai un progetto<br>da raccontarci?",
+    "cta_link": "PARLIAMONE"
+  },
+  "project_detail": {
+    "back": "TORNA AI PROGETTI",
+    "project": "IL PROGETTO",
+    "location": "LOCALITÀ",
+    "year": "ANNO",
+    "type": "TIPOLOGIA",
+    "surface": "SUPERFICIE",
+    "status": "STATO",
+    "previous": "PROGETTO PRECEDENTE",
+    "next": "PROGETTO SUCCESSIVO",
+    "cta_eyebrow": "CONTATTI",
+    "cta_title": "Hai un progetto<br>da raccontarci?",
+    "cta_link": "PARLIAMONE",
+    "close": "Chiudi galleria",
+    "prev_image": "Immagine precedente",
+    "next_image": "Immagine successiva"
+  },
+  "studio_page": {
+    "hero": {
+      "eyebrow": "CHI SIAMO",
+      "title": "Architettura<br>per una vita autentica",
+      "text": "Progettiamo spazi che uniscono estetica, funzione e rispetto per il contesto. Crediamo in un'architettura essenziale, contemporanea e profondamente legata ai luoghi e alle persone.",
+      "image_alt": "Architettura contemporanea nel paesaggio"
+    },
+    "founder": {
+      "eyebrow": "IL FONDATORE",
+      "name": "Federica Tebaldi",
+      "lead": "Architetta e designer con una formazione internazionale e una profonda passione per il territorio mediterraneo.",
+      "text": "Lo studio nasce con l'obiettivo di sviluppare progetti che uniscono bellezza, funzionalità e responsabilità ambientale. Ogni progetto è il risultato di un dialogo continuo tra contesto, materia e persone.",
+      "image_alt": "Ritratto del fondatore dello studio"
+    },
+    "stats": {
+      "experience": "ANNI DI ESPERIENZA",
+      "projects": "PROGETTI REALIZZATI",
+      "countries": "PAESI",
+      "vision": "VISIONE"
+    },
+    "method": {
+      "eyebrow": "IL NOSTRO APPROCCIO",
+      "title": "Ascoltare,<br>interpretare, costruire.",
+      "text": "Ogni progetto nasce da un dialogo aperto con il cliente, dal rispetto del luogo e da una ricerca costante di equilibrio tra natura, tecnologia e bellezza.",
+      "items": [
+        {
+          "title": "CONTESTO",
+          "text": "Ogni luogo ha una storia. La ascoltiamo."
+        },
+        {
+          "title": "PERSONE",
+          "text": "Spazi pensati per chi li vive, ogni giorno."
+        },
+        {
+          "title": "ESSENZA",
+          "text": "Architettura come equilibrio tra natura, funzione e bellezza."
+        }
+      ]
+    },
+    "manifesto": "“L’architettura non cambia il mondo,<br>ma può migliorare il modo in cui lo viviamo.”",
+    "values": {
+      "eyebrow": "I NOSTRI VALORI",
+      "items": [
+        {
+          "title": "Autenticità",
+          "text": "Progetti sinceri, radicati nei luoghi e nelle persone."
+        },
+        {
+          "title": "Sostenibilità",
+          "text": "Soluzioni consapevoli per un futuro equilibrato."
+        },
+        {
+          "title": "Qualità",
+          "text": "Attenzione ai dettagli, in ogni scala."
+        },
+        {
+          "title": "Dialogo",
+          "text": "Ascolto e collaborazione come base di ogni progetto."
+        }
+      ]
+    },
+    "publications": {
+      "eyebrow": "PUBBLICAZIONI E RICONOSCIMENTI",
+      "placeholder": "Spazio predisposto per pubblicazioni, premi e riconoscimenti dello studio."
+    },
+    "contact": {
+      "eyebrow": "CONTATTI",
+      "title": "Parliamo del tuo progetto.",
+      "cta": "CONTATTACI"
+    }
+  }
+}

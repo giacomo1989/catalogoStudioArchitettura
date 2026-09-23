@@ -1,0 +1,418 @@
+{
+  "projects": [
+    {
+      "slug": "villa-sul-lago",
+      "title": "Lakeside Villa",
+      "location": "Como",
+      "year": "2026",
+      "type": "Residential",
+      "image": "assets/images/projects/project-1.jpg",
+      "alt": "Lakeside Villa",
+      "surface": "280 m²",
+      "status": "Completed",
+      "intro": "A residence designed to establish a direct dialogue with the landscape.",
+      "description": "The villa unfolds in continuity with its setting, enhancing natural light, lake views and local materials. Essential volumes and open spaces define a contemporary home balanced between nature, comfort and restraint.",
+      "hero": "assets/images/projects/villa-sul-lago/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/villa-sul-lago/01.jpg",
+          "layout": "full",
+          "alt": "Lakeside Villa — 01"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/02.jpg",
+          "layout": "half",
+          "alt": "Lakeside Villa — 02"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/03.jpg",
+          "layout": "half",
+          "alt": "Lakeside Villa — 03"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/04.jpg",
+          "layout": "portrait",
+          "alt": "Lakeside Villa — 04"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/05.jpg",
+          "layout": "stack",
+          "alt": "Lakeside Villa — 05"
+        },
+        {
+          "src": "assets/images/projects/villa-sul-lago/06.jpg",
+          "layout": "stack",
+          "alt": "Lakeside Villa — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-tra-gli-ulivi",
+      "title": "House Among Olive Trees",
+      "location": "Puglia",
+      "year": "2025",
+      "type": "Residential",
+      "image": "assets/images/projects/project-2.jpg",
+      "alt": "House Among Olive Trees",
+      "surface": "300 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/casa-tra-gli-ulivi/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/01.jpg",
+          "layout": "full",
+          "alt": "House Among Olive Trees — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/02.jpg",
+          "layout": "half",
+          "alt": "House Among Olive Trees — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/03.jpg",
+          "layout": "half",
+          "alt": "House Among Olive Trees — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/04.jpg",
+          "layout": "portrait",
+          "alt": "House Among Olive Trees — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/05.jpg",
+          "layout": "stack",
+          "alt": "House Among Olive Trees — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-tra-gli-ulivi/06.jpg",
+          "layout": "stack",
+          "alt": "House Among Olive Trees — 06"
+        }
+      ]
+    },
+    {
+      "slug": "attico-milano",
+      "title": "Milan Penthouse",
+      "location": "Milan",
+      "year": "2026",
+      "type": "Interior",
+      "image": "assets/images/projects/project-3.jpg",
+      "alt": "Milan Penthouse",
+      "surface": "320 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/attico-milano/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/attico-milano/01.jpg",
+          "layout": "full",
+          "alt": "Milan Penthouse — 01"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/02.jpg",
+          "layout": "half",
+          "alt": "Milan Penthouse — 02"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/03.jpg",
+          "layout": "half",
+          "alt": "Milan Penthouse — 03"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/04.jpg",
+          "layout": "portrait",
+          "alt": "Milan Penthouse — 04"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/05.jpg",
+          "layout": "stack",
+          "alt": "Milan Penthouse — 05"
+        },
+        {
+          "src": "assets/images/projects/attico-milano/06.jpg",
+          "layout": "stack",
+          "alt": "Milan Penthouse — 06"
+        }
+      ]
+    },
+    {
+      "slug": "resort-toscana",
+      "title": "Tuscan Resort",
+      "location": "Tuscany",
+      "year": "2025",
+      "type": "Hospitality",
+      "image": "assets/images/projects/project-4.jpg",
+      "alt": "Tuscan Resort",
+      "surface": "340 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/resort-toscana/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/resort-toscana/01.jpg",
+          "layout": "full",
+          "alt": "Tuscan Resort — 01"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/02.jpg",
+          "layout": "half",
+          "alt": "Tuscan Resort — 02"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/03.jpg",
+          "layout": "half",
+          "alt": "Tuscan Resort — 03"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/04.jpg",
+          "layout": "portrait",
+          "alt": "Tuscan Resort — 04"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/05.jpg",
+          "layout": "stack",
+          "alt": "Tuscan Resort — 05"
+        },
+        {
+          "src": "assets/images/projects/resort-toscana/06.jpg",
+          "layout": "stack",
+          "alt": "Tuscan Resort — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-patio",
+      "title": "Patio House",
+      "location": "Barcelona",
+      "year": "2025",
+      "type": "Residential",
+      "image": "assets/images/projects/project-2.jpg",
+      "alt": "Patio House",
+      "surface": "360 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/casa-patio/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-patio/01.jpg",
+          "layout": "full",
+          "alt": "Patio House — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/02.jpg",
+          "layout": "half",
+          "alt": "Patio House — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/03.jpg",
+          "layout": "half",
+          "alt": "Patio House — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/04.jpg",
+          "layout": "portrait",
+          "alt": "Patio House — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/05.jpg",
+          "layout": "stack",
+          "alt": "Patio House — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-patio/06.jpg",
+          "layout": "stack",
+          "alt": "Patio House — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-della-luce",
+      "title": "House of Light",
+      "location": "Mallorca",
+      "year": "2024",
+      "type": "Residential",
+      "image": "assets/images/projects/project-3.jpg",
+      "alt": "House of Light",
+      "surface": "380 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/casa-della-luce/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-della-luce/01.jpg",
+          "layout": "full",
+          "alt": "House of Light — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/02.jpg",
+          "layout": "half",
+          "alt": "House of Light — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/03.jpg",
+          "layout": "half",
+          "alt": "House of Light — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/04.jpg",
+          "layout": "portrait",
+          "alt": "House of Light — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/05.jpg",
+          "layout": "stack",
+          "alt": "House of Light — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-della-luce/06.jpg",
+          "layout": "stack",
+          "alt": "House of Light — 06"
+        }
+      ]
+    },
+    {
+      "slug": "residenza-tra-gli-ulivi",
+      "title": "Olive Grove Residence",
+      "location": "Val d'Orcia",
+      "year": "2023",
+      "type": "Residential",
+      "image": "assets/images/projects/project-2.jpg",
+      "alt": "Olive Grove Residence",
+      "surface": "400 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/residenza-tra-gli-ulivi/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/01.jpg",
+          "layout": "full",
+          "alt": "Olive Grove Residence — 01"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/02.jpg",
+          "layout": "half",
+          "alt": "Olive Grove Residence — 02"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/03.jpg",
+          "layout": "half",
+          "alt": "Olive Grove Residence — 03"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/04.jpg",
+          "layout": "portrait",
+          "alt": "Olive Grove Residence — 04"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/05.jpg",
+          "layout": "stack",
+          "alt": "Olive Grove Residence — 05"
+        },
+        {
+          "src": "assets/images/projects/residenza-tra-gli-ulivi/06.jpg",
+          "layout": "stack",
+          "alt": "Olive Grove Residence — 06"
+        }
+      ]
+    },
+    {
+      "slug": "studio-architettura",
+      "title": "Architecture Studio",
+      "location": "Milan",
+      "year": "2023",
+      "type": "Offices",
+      "image": "assets/images/projects/project-4.jpg",
+      "alt": "Architecture Studio",
+      "surface": "420 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/studio-architettura/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/studio-architettura/01.jpg",
+          "layout": "full",
+          "alt": "Architecture Studio — 01"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/02.jpg",
+          "layout": "half",
+          "alt": "Architecture Studio — 02"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/03.jpg",
+          "layout": "half",
+          "alt": "Architecture Studio — 03"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/04.jpg",
+          "layout": "portrait",
+          "alt": "Architecture Studio — 04"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/05.jpg",
+          "layout": "stack",
+          "alt": "Architecture Studio — 05"
+        },
+        {
+          "src": "assets/images/projects/studio-architettura/06.jpg",
+          "layout": "stack",
+          "alt": "Architecture Studio — 06"
+        }
+      ]
+    },
+    {
+      "slug": "casa-nelle-alpi",
+      "title": "House in the Alps",
+      "location": "Cortina",
+      "year": "2022",
+      "type": "Residential",
+      "image": "assets/images/projects/project-1.jpg",
+      "alt": "House in the Alps",
+      "surface": "440 m²",
+      "status": "Completed",
+      "intro": "A project shaped around light, proportion and its relationship with the context.",
+      "description": "Essential spaces, natural materials and a measured composition define an architecture designed to be lived in over time.",
+      "hero": "assets/images/projects/casa-nelle-alpi/hero.jpg",
+      "gallery": [
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/01.jpg",
+          "layout": "full",
+          "alt": "House in the Alps — 01"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/02.jpg",
+          "layout": "half",
+          "alt": "House in the Alps — 02"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/03.jpg",
+          "layout": "half",
+          "alt": "House in the Alps — 03"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/04.jpg",
+          "layout": "portrait",
+          "alt": "House in the Alps — 04"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/05.jpg",
+          "layout": "stack",
+          "alt": "House in the Alps — 05"
+        },
+        {
+          "src": "assets/images/projects/casa-nelle-alpi/06.jpg",
+          "layout": "stack",
+          "alt": "House in the Alps — 06"
+        }
+      ]
+    }
+  ]
+}
